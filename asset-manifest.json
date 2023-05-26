@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/future-tracker/static/css/main.41a58046.css",
+    "main.js": "/future-tracker/static/js/main.0f61979b.js",
+    "static/media/moon.jpg": "/future-tracker/static/media/moon.4488438a200a4c9fd44f.jpg",
+    "index.html": "/future-tracker/index.html",
+    "main.41a58046.css.map": "/future-tracker/static/css/main.41a58046.css.map",
+    "main.0f61979b.js.map": "/future-tracker/static/js/main.0f61979b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a58046.css",
+    "static/js/main.0f61979b.js"
+  ]
+}
